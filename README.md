@@ -1,0 +1,2 @@
+# Ai
+Open ai alternative 
